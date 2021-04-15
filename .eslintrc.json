@@ -1,0 +1,13 @@
+{
+  "extends": "react-app",
+  "rules": {
+    "semi": ["warn", "always"],
+    "no-var": "error",
+    "no-empty": "warn",
+    "no-console": "warn",
+    "arrow-spacing": "warn",
+    "quotes": "warn",
+    "no-empty-function": "warn",
+    "no-eval": "error"
+  }
+}
